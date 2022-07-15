@@ -3,3 +3,5 @@ b
 vim is foolxxxx.
 
 fuck!
+
+Git has a mutable indx called stage.
